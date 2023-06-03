@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1057412250 ",
+        "value": "1057412250",
         "required": true
       },
       "SESSION": {
@@ -38,7 +38,7 @@
       },
       "SUDO_USERS": {
         "description": "The user id(s) of user(s) whom you would like to add as a sudo. Multiple values shall be seperated with a space.",
-        "value": "1057412250 ",
+        "value": "",
         "required": true
       },
       "SUPPORT_CHAT": {
