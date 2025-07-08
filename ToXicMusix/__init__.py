@@ -92,8 +92,8 @@ async def toxic_startup():
     ASS_USERNAME = getme2.username
     ASS_MENTION = getme2.mention
     try:
-        await app2.join_chat("ChatHUB_x_D")
-        await app2.join_chat("ToXicAssociation")
+        await app2.join_chat("punjabi_chats")
+        await app2.join_chat("punjabi_chats")
     except:
         pass
 
